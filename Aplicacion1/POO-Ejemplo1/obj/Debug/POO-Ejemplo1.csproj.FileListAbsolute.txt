@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Ejemplo1\bin\Debug\POO-Ejemplo1.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Ejemplo1\bin\Debug\POO-Ejemplo1.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Ejemplo1\bin\Debug\POO-Ejemplo1.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Ejemplo1\obj\Debug\POO-Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Ejemplo1\obj\Debug\POO-Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Ejemplo1\obj\Debug\POO-Ejemplo1.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Ejemplo1\obj\Debug\POO-Ejemplo1.pdb

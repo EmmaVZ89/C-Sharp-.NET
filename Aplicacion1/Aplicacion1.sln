@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckeUnchecked", "CheckeUn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LecturaArchivoTexto", "LecturaArchivoTexto\LecturaArchivoTexto.csproj", "{122D7FD1-D3DD-4E99-8CD9-B8A6C2CF97AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Ejemplo1", "POO-Ejemplo1\POO-Ejemplo1.csproj", "{56C919A7-D105-4D8A-900D-F33F2F429202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-Ejemplo2", "POO-Ejemplo2\POO-Ejemplo2.csproj", "{DF268B10-E4A4-41AB-A0E1-DD4FCD6F82CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{122D7FD1-D3DD-4E99-8CD9-B8A6C2CF97AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{122D7FD1-D3DD-4E99-8CD9-B8A6C2CF97AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{122D7FD1-D3DD-4E99-8CD9-B8A6C2CF97AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C919A7-D105-4D8A-900D-F33F2F429202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C919A7-D105-4D8A-900D-F33F2F429202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C919A7-D105-4D8A-900D-F33F2F429202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C919A7-D105-4D8A-900D-F33F2F429202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF268B10-E4A4-41AB-A0E1-DD4FCD6F82CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF268B10-E4A4-41AB-A0E1-DD4FCD6F82CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF268B10-E4A4-41AB-A0E1-DD4FCD6F82CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF268B10-E4A4-41AB-A0E1-DD4FCD6F82CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
