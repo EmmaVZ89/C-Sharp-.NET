@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\CheckeUnchecked\bin\Debug\CheckeUnchecked.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\CheckeUnchecked\bin\Debug\CheckeUnchecked.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\CheckeUnchecked\bin\Debug\CheckeUnchecked.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\CheckeUnchecked\obj\Debug\CheckeUnchecked.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\CheckeUnchecked\obj\Debug\CheckeUnchecked.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\CheckeUnchecked\obj\Debug\CheckeUnchecked.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\CheckeUnchecked\obj\Debug\CheckeUnchecked.pdb

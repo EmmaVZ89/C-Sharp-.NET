@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\LecturaArchivoTexto\bin\Debug\LecturaArchivoTexto.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\LecturaArchivoTexto\bin\Debug\LecturaArchivoTexto.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\LecturaArchivoTexto\bin\Debug\LecturaArchivoTexto.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\LecturaArchivoTexto\obj\Debug\LecturaArchivoTexto.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\LecturaArchivoTexto\obj\Debug\LecturaArchivoTexto.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\LecturaArchivoTexto\obj\Debug\LecturaArchivoTexto.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\LecturaArchivoTexto\obj\Debug\LecturaArchivoTexto.csproj.AssemblyReference.cache
