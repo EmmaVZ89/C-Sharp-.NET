@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Herencia1\bin\Debug\POO-Herencia1.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Herencia1\bin\Debug\POO-Herencia1.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Herencia1\bin\Debug\POO-Herencia1.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Herencia1\obj\Debug\POO-Herencia1.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Herencia1\obj\Debug\POO-Herencia1.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Herencia1\obj\Debug\POO-Herencia1.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Herencia1\obj\Debug\POO-Herencia1.pdb

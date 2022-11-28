@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ARRAY-1\bin\Debug\ARRAY-1.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ARRAY-1\bin\Debug\ARRAY-1.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ARRAY-1\bin\Debug\ARRAY-1.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ARRAY-1\obj\Debug\ARRAY-1.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ARRAY-1\obj\Debug\ARRAY-1.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ARRAY-1\obj\Debug\ARRAY-1.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ARRAY-1\obj\Debug\ARRAY-1.pdb

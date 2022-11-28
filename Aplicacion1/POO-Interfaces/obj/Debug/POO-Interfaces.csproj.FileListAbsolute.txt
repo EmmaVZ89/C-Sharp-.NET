@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Interfaces\bin\Debug\POO-Interfaces.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Interfaces\bin\Debug\POO-Interfaces.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Interfaces\bin\Debug\POO-Interfaces.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Interfaces\obj\Debug\POO-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Interfaces\obj\Debug\POO-Interfaces.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Interfaces\obj\Debug\POO-Interfaces.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\POO-Interfaces\obj\Debug\POO-Interfaces.csproj.AssemblyReference.cache
