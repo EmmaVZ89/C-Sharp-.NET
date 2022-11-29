@@ -1,0 +1,6 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Destructores\bin\Debug\Destructores.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Destructores\bin\Debug\Destructores.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Destructores\bin\Debug\Destructores.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Destructores\obj\Debug\Destructores.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Destructores\obj\Debug\Destructores.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Destructores\obj\Debug\Destructores.pdb

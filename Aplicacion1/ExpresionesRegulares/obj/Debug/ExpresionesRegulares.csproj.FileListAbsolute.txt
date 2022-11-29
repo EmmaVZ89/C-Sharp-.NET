@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.AssemblyReference.cache

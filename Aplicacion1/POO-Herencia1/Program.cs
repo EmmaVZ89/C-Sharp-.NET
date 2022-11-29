@@ -46,11 +46,14 @@ namespace POO_Herencia1
             // No se pueden definir destructores
             // No se pueden espeficiar modificadores de acceso en metodos (todos son public en forma implicita)
             // No se pueden anidar clases ni otro tipo de estructuras en las interfaces.
-            Ballena ballena = new Ballena("Azuleta");
-            ballena.Nadar();
+            //Ballena ballena = new Ballena("Azuleta");
+            //ballena.Nadar();
+            //IMamiferosTerrestres miCaballo = caballo;
+            //Console.WriteLine($"Patas caballo: {miCaballo.GetNumeroPatas()}");
 
-            IMamiferosTerrestres miCaballo = caballo;
-            Console.WriteLine($"Patas caballo: {miCaballo.GetNumeroPatas()}");
+            // CLASE ABSTRACTA
+            Lagartija reptil = new Lagartija("Reptil");
+            reptil.getNombre();
    
 
             Console.WriteLine();
@@ -59,18 +62,40 @@ namespace POO_Herencia1
         }
     }
 
-    class Mamifero
+    abstract class Animal
+    {
+        public void respirar()
+        {
+            Console.WriteLine("Respirando...");
+        }
+
+        public abstract void getNombre();
+    }
+
+    class Lagartija : Animal
+    {
+        private string nombreReptil;
+
+        public string NombreReptil { get => nombreReptil; set => nombreReptil = value; }
+
+        public Lagartija(string nombreReptil)
+        {
+            this.nombreReptil = nombreReptil;
+        }
+
+        public override void getNombre()
+        {
+            Console.WriteLine($"Mi nombre es (reptil): {this.nombreReptil}");
+        }
+    }
+
+    class Mamifero : Animal
     {
         private string nombre;
 
         public Mamifero(string nombre)
         {
             this.nombre = nombre;
-        }
-
-        public void respirar()
-        {
-            Console.WriteLine("Respirando...");
         }
 
         public void caminar()
@@ -83,7 +108,7 @@ namespace POO_Herencia1
             Console.WriteLine("Mamifero pensando...");
         }
 
-        public void getNombre()
+        public override void getNombre()
         {
             Console.WriteLine($"El nombre es: {this.nombre}");
         }
@@ -161,6 +186,13 @@ namespace POO_Herencia1
         }
     }
 
+    class Chimpance: Gorila
+    {
+        public Chimpance(string nombre) : base(nombre)
+        {
+        }
+    }
+
     class Ballena : Mamifero
     {
         public Ballena(string nombre) : base(nombre)
@@ -172,6 +204,7 @@ namespace POO_Herencia1
             Console.WriteLine("Nadando...");
         }
     }
+
 
     interface IMamiferosTerrestres
     {

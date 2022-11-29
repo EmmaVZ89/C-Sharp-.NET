@@ -1,0 +1,6 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Delegados-Predicate\bin\Debug\Delegados-Predicate.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Delegados-Predicate\bin\Debug\Delegados-Predicate.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Delegados-Predicate\bin\Debug\Delegados-Predicate.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Delegados-Predicate\obj\Debug\Delegados-Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Delegados-Predicate\obj\Debug\Delegados-Predicate.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Delegados-Predicate\obj\Debug\Delegados-Predicate.pdb

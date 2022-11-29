@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Colecciones\bin\Debug\Colecciones.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Colecciones\bin\Debug\Colecciones.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Colecciones\obj\Debug\Colecciones.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Colecciones\obj\Debug\Colecciones.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Colecciones\obj\Debug\Colecciones.pdb

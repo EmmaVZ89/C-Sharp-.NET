@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Enumerados\bin\Debug\Enumerados.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Enumerados\bin\Debug\Enumerados.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Enumerados\bin\Debug\Enumerados.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Enumerados\obj\Debug\Enumerados.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Enumerados\obj\Debug\Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Enumerados\obj\Debug\Enumerados.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\Enumerados\obj\Debug\Enumerados.pdb

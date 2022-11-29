@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesLambda\bin\Debug\ExpresionesLambda.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesLambda\obj\Debug\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesLambda\obj\Debug\ExpresionesLambda.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesLambda\obj\Debug\ExpresionesLambda.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion1\ExpresionesLambda\obj\Debug\ExpresionesLambda.csproj.AssemblyReference.cache
