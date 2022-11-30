@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\bin\Debug\Aplicacion3.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\bin\Debug\Aplicacion3.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\bin\Debug\Aplicacion3.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\MainWindow.g.cs
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\App.g.cs
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3_MarkupCompile.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3_MarkupCompile.lref
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\MainWindow.baml
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.g.resources
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.Properties.Resources.resources
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.csproj.GenerateResource.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion3\Aplicacion3\obj\Debug\Aplicacion3.pdb

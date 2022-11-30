@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\bin\Debug\Aplicacion2.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\bin\Debug\Aplicacion2.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\bin\Debug\Aplicacion2.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\MainWindow.g.cs
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\App.g.cs
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2_MarkupCompile.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2_MarkupCompile.lref
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\MainWindow.baml
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2.g.resources
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2.Properties.Resources.resources
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2.csproj.GenerateResource.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion2\Aplicacion2\obj\Debug\Aplicacion2.pdb
