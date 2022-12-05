@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\bin\Debug\Aplicacion4.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\bin\Debug\Aplicacion4.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\bin\Debug\Aplicacion4.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\MainWindow.g.cs
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\App.g.cs
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4_MarkupCompile.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4_MarkupCompile.lref
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\MainWindow.baml
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.g.resources
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.Properties.Resources.resources
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.csproj.GenerateResource.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion4\Aplicacion4\obj\Debug\Aplicacion4.pdb
