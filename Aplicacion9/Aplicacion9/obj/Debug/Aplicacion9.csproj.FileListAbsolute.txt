@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion9\Aplicacion9\bin\Debug\Aplicacion9.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion9\Aplicacion9\bin\Debug\Aplicacion9.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion9\Aplicacion9\bin\Debug\Aplicacion9.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion9\Aplicacion9\obj\Debug\Aplicacion9.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion9\Aplicacion9\obj\Debug\Aplicacion9.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion9\Aplicacion9\obj\Debug\Aplicacion9.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion9\Aplicacion9\obj\Debug\Aplicacion9.pdb

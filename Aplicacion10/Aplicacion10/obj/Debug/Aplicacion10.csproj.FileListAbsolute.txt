@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\bin\Debug\Aplicacion10.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\bin\Debug\Aplicacion10.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\bin\Debug\Aplicacion10.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\MainWindow.g.cs
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\App.g.cs
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10_MarkupCompile.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10_MarkupCompile.lref
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\MainWindow.baml
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10.g.resources
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10.Properties.Resources.resources
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10.csproj.GenerateResource.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion10\Aplicacion10\obj\Debug\Aplicacion10.pdb
