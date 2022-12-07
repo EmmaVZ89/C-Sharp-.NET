@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploParallel\bin\Debug\EjemploParallel.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploParallel\bin\Debug\EjemploParallel.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploParallel\bin\Debug\EjemploParallel.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploParallel\obj\Debug\EjemploParallel.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploParallel\obj\Debug\EjemploParallel.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploParallel\obj\Debug\EjemploParallel.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploParallel\obj\Debug\EjemploParallel.pdb

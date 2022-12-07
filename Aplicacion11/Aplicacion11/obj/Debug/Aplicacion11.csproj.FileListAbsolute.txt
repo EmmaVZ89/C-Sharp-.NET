@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\Aplicacion11\bin\Debug\Aplicacion11.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\Aplicacion11\bin\Debug\Aplicacion11.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\Aplicacion11\bin\Debug\Aplicacion11.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\Aplicacion11\obj\Debug\Aplicacion11.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\Aplicacion11\obj\Debug\Aplicacion11.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\Aplicacion11\obj\Debug\Aplicacion11.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\Aplicacion11\obj\Debug\Aplicacion11.pdb

@@ -1,0 +1,6 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploTask2\bin\Debug\EjemploTask2.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploTask2\bin\Debug\EjemploTask2.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploTask2\bin\Debug\EjemploTask2.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploTask2\obj\Debug\EjemploTask2.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploTask2\obj\Debug\EjemploTask2.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploTask2\obj\Debug\EjemploTask2.pdb

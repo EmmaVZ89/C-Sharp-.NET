@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread2\bin\Debug\EjemploThread2.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread2\bin\Debug\EjemploThread2.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread2\bin\Debug\EjemploThread2.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread2\obj\Debug\EjemploThread2.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread2\obj\Debug\EjemploThread2.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread2\obj\Debug\EjemploThread2.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread2\obj\Debug\EjemploThread2.csproj.AssemblyReference.cache

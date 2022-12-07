@@ -1,0 +1,7 @@
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread3\bin\Debug\EjemploThread3.exe.config
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread3\bin\Debug\EjemploThread3.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread3\bin\Debug\EjemploThread3.pdb
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread3\obj\Debug\EjemploThread3.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread3\obj\Debug\EjemploThread3.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread3\obj\Debug\EjemploThread3.exe
+C:\Users\Note\Desktop\C# .NET Review\C-Sharp-.NET\Aplicacion11\EjemploThread3\obj\Debug\EjemploThread3.pdb
